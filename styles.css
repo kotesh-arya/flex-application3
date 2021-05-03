@@ -1,0 +1,18 @@
+.box{
+height: 200px;
+width: 200px; 
+background-color: tomato; 
+margin: 5px;
+text-align: center;  
+font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif   ;
+}
+.flex-container{
+    display: flex;
+justify-content: center;
+flex-wrap: wrap;
+height: 100vh;
+background-color:#000;
+}
+.one{
+    width:1450px;
+}
